@@ -1,2 +1,2 @@
 # bank-assignment
-assignment for semester I
+practice set for semester I
